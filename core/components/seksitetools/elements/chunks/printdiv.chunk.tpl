@@ -1,0 +1,1 @@
+<a href="" onclick="printSelection(document.getElementById('[[+divID]]'));return false">[[+linkText]]</a>
